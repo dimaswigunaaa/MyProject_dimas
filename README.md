@@ -1,1 +1,1 @@
-haaloo gamelab indonesia, saya mencoba git reset dan git revert 
+haaloo gamelab indonesia, saya mencoba gitpush
